@@ -1,0 +1,172 @@
+CASE FILE: THOMPSON v. MERIDIAN TECHNOLOGIES INC.
+Case Number: CV-2024-0892
+Court: Superior Court of California, County of San Francisco
+Filed: March 15, 2024
+
+PLAINTIFF'S COMPLAINT FOR DAMAGES
+PARTIES
+PLAINTIFF: Sarah Thompson
+Address: 1847 Oak Street, San Francisco, CA 94117
+Phone: (415) 555-0123
+Email: s.thompson@email.com
+Occupation: Senior Software Engineer
+DEFENDANT: Meridian Technologies Inc.
+Address: 500 Market Street, Suite 2100, San Francisco, CA 94105
+Business Type: Technology Solutions Company
+Industry: Software Development and IT Consulting
+
+CASE SUMMARY
+This action arises from employment discrimination, wrongful termination, and retaliation against Plaintiff Sarah Thompson by Defendant Meridian Technologies Inc. Plaintiff seeks monetary damages, reinstatement, and injunctive relief.
+
+FACTUAL BACKGROUND
+Employment History
+
+Start Date: January 8, 2020
+Position: Senior Software Engineer, Cloud Infrastructure Team
+Salary: $145,000 annually
+Performance: Consistently rated "Exceeds Expectations" in all annual reviews
+Termination Date: February 14, 2024
+
+Key Events Timeline
+January 2023: Plaintiff informed supervisor James Mitchell about pregnancy
+March 2023: Plaintiff requested maternity leave accommodation
+April 2023: Supervisor Mitchell made disparaging comments about "pregnant employees being unreliable"
+June 2023: Plaintiff took 12-week maternity leave under FMLA
+September 2023: Upon return, Plaintiff's responsibilities were significantly reduced
+October 2023: Plaintiff excluded from team meetings and key project decisions
+November 2023: Performance review delayed without explanation
+December 2023: Plaintiff filed internal complaint with HR Director Lisa Chen
+January 2024: Plaintiff received first negative performance review despite meeting all deliverables
+February 14, 2024: Plaintiff terminated citing "performance issues"
+
+KEY PERSONNEL AND WITNESSES
+Management
+James Mitchell - Direct Supervisor, Engineering Manager
+
+Made discriminatory statements regarding pregnant employees
+Reduced plaintiff's responsibilities after maternity leave
+Authored negative performance review
+
+Robert Harrison - VP of Engineering
+
+Approved termination decision
+Present during several discriminatory incidents
+
+Lisa Chen - HR Director
+
+Received plaintiff's internal complaint
+Failed to investigate discrimination claims
+Involved in termination decision
+
+Witnesses
+Michael Rodriguez - Senior Developer, Colleague
+
+Witnessed discriminatory comments by Mitchell
+Can testify to plaintiff's excellent work performance
+Present during team meetings where plaintiff was excluded
+
+Amanda Foster - Product Manager
+
+Collaborated with plaintiff on multiple successful projects
+Witnessed reduction in plaintiff's responsibilities
+Can testify to plaintiff's technical competency
+
+Dr. Jennifer Walsh - Plaintiff's Physician
+
+Provided medical documentation for maternity leave
+Can testify to plaintiff's fitness for work upon return
+
+
+LEGAL CLAIMS
+Count I: Pregnancy Discrimination (Government Code § 12945)
+Defendant discriminated against Plaintiff based on her pregnancy and maternity leave, in violation of the California Fair Employment and Housing Act (FEHA).
+Count II: Wrongful Termination in Violation of Public Policy
+Defendant terminated Plaintiff in retaliation for taking protected maternity leave and filing discrimination complaints.
+Count III: Failure to Prevent Discrimination and Harassment
+Defendant failed to take adequate steps to prevent discrimination and harassment despite having knowledge of the discriminatory conduct.
+Count IV: Retaliation (Government Code § 12940(h))
+Defendant retaliated against Plaintiff for opposing discriminatory practices and filing internal complaints.
+
+EVIDENCE
+Documentary Evidence
+
+Email communications showing discriminatory language
+Performance reviews demonstrating sudden decline after maternity leave
+FMLA documentation and medical records
+Internal HR complaint filed December 2023
+Witness statements from colleagues
+Company policies regarding maternity leave and non-discrimination
+
+Financial Evidence
+
+Salary and benefits documentation
+Evidence of bonuses and stock options denied after return from leave
+Comparative compensation data for male colleagues
+Job search expenses and lost income documentation
+
+
+DAMAGES SOUGHT
+Economic Damages
+
+Back Pay: $48,333 (lost wages from termination date to present)
+Front Pay: $290,000 (estimated future lost earnings for 2 years)
+Lost Benefits: $15,000 (health insurance, 401k contributions, stock options)
+Job Search Costs: $3,500
+
+Non-Economic Damages
+
+Emotional Distress: $100,000
+Loss of Professional Reputation: $50,000
+
+Punitive Damages
+
+Willful Discrimination: $250,000
+
+TOTAL DAMAGES SOUGHT: $756,833
+
+EXPERT WITNESSES
+Dr. Patricia Simmons - Employment Discrimination Expert
+Specializes in pregnancy discrimination cases, will testify on industry standards and discriminatory patterns.
+John Chen, CPA - Economic Damages Expert
+Will calculate lost wages, benefits, and future earning capacity.
+Dr. Michael Roberts - Psychological Expert
+Will testify regarding emotional distress and psychological impact of discrimination.
+
+SUPPORTING CASE LAW
+
+California Federal Savings & Loan Assn. v. Guerra (1987) 479 U.S. 272
+Martin v. Lockheed Missiles & Space Co. (1994) 29 Cal.App.4th 1718
+Prue v. Brady Co./San Diego (2015) 242 Cal.App.4th 1367
+
+
+SETTLEMENT POSITION
+Plaintiff is willing to consider settlement discussions that include:
+
+Full reinstatement to previous position with back pay
+Monetary compensation for emotional distress
+Policy changes to prevent future discrimination
+Management training on pregnancy discrimination laws
+Neutral employment reference
+
+
+PROCEDURAL NOTES
+
+Discovery Cutoff: September 15, 2024
+Expert Witness Disclosure: October 1, 2024
+Mediation Scheduled: November 15, 2024
+Trial Date: January 20, 2025
+
+
+ATTORNEY INFORMATION
+Law Firm: Morrison & Associates LLP
+Attorney: David Morrison, Esq.
+Bar Number: 156789
+Address: 123 Legal Plaza, San Francisco, CA 94102
+Phone: (415) 555-0100
+Email: dmorrison@morrisonlaw.com
+
+This document contains confidential attorney-client privileged information. Unauthorized disclosure is prohibited.
+Document Prepared: March 20, 2024
+Last Updated: March 25, 2024
+Page Count: 4 pages
+Attachments: 15 exhibits
